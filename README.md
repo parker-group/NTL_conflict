@@ -2,7 +2,7 @@
 Data and code for our work on assessing the use of nighttime lights as a tool to measure conflict in Yemen and Ukraine.
 
 Working paper title:
-**Nighttime lights as a viable tool for measuring conflict in Yemen and Ukraine**
+**Nighttime lights as a proxy for conflict intensity, population displacement, and infrastructure recovery in Yemen and Ukraine**
 
 Maia C. Tarnas<sup>1*</sup>, Tetyana I. Vasylyeva<sup>1,2</sup>, Volodymyr M. Minin<sup>3</sup>, Daniel M. Parker<sup>1,2</sup>
 
