@@ -34,6 +34,9 @@ ukr_mean.gam <- gam(ntl_mean_log ~ attacksCAT + s(mos,bs="cc", k=-1) +
 
 
 #### Population and NTL ####
+# Note that the model for Yemen is automatically dropping data from Raymah, as 
+# its two-month rolling minimum was zero and therefore the recovery ratio could
+# not be calculated
 yem_pop.gam <- gam(pop ~ s(mos, bs="cc",k=-1) + s(built_perc_log,k=-1) + 
                      s(ntl_mean_const_log, k=-1) + s(recovery_ratio_log,k=-1) + 
                      attacksCAT + s(lon,lat,bs="sos",k=15), family = gaussian, 
