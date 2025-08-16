@@ -7,7 +7,7 @@ Working paper title:
 Maia C. Tarnas<sup>1*</sup>, Tetyana I. Vasylyeva<sup>1,2</sup>, Volodymyr M. Minin<sup>3</sup>, Daniel M. Parker<sup>1,2</sup>
 
 1. Department of Population Health & Disease Prevention, University of California, Irvine
-2. Department of Epidemiology and Biostatistics, University of California, Irvine
+2. Department of Epidemiology & Biostatistics, University of California, Irvine
 3. Department of Statistics, University of California, Irvine
 
 * Corresponding author: mtarnas@uci.edu
